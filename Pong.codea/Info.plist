@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>Main2</string>
+		<string>Scene</string>
+		<string>Splash</string>
+		<string>Game</string>
+		<string>GameOver</string>
+		<string>GameSingle</string>
+		<string>GameDemo</string>
+		<string>GameHost</string>
+		<string>GameClient</string>
+		<string>Button</string>
+		<string>Body</string>
+		<string>Ball</string>
+		<string>Paddle</string>
+		<string>Player</string>
+		<string>Droid</string>
+		<string>Multiplayer</string>
+	</array>
+	<key>Created</key>
+	<string>2015-11-06 09:34:43 +0000</string>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
